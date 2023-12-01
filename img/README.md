@@ -1,7 +1,7 @@
 # tutorial de Git egithub na prática
 
-## instalação Git
-* [link com downloads] (https://git-scm.com/download)
+
+* [link] (https://git-scm.com/download)
 
 ## versionamento do projeto
 * Acesse a pasta na qual p projeto está armazenando
@@ -61,7 +61,7 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 
 * no Github, as branches aparecerão assim:
   
-  <img src ="img/imgBranch.PNG">
+  <img src="imgBranch.PNG">
 
   * Se necessario retornar para branch `main` pelo terminal do Git, digite `git checkout main`
 

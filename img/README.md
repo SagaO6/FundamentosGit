@@ -1,9 +1,10 @@
 # tutorial de Git egithub na prática
 
-
-* [link] (https://git-scm.com/download)
+# Instalação do git
+* [link com downloads] (https://git-scm.com/download)
 
 ## versionamento do projeto
+
 * Acesse a pasta na qual p projeto está armazenando
 * Clique com botão direto do mouse e selecione **Open Git bash here**
 * Digite 'git init' para inicializar o repositório

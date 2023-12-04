@@ -89,3 +89,5 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 * E se por exemplo o desenvolvedor digitar novos códigos em seu computador de casa e subi-los para o repositorio remoto, perceber ao chegar no trabalho que o projeto na máquina do escritório está desatualizado?
 
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositorio local**, digite `git pull`
+
+* Testando na pratica o git pull

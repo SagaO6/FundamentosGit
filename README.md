@@ -62,7 +62,7 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 
 * no Github, as branches aparecerão assim:
   
-  <img src="imgBranch.PNG">
+  <img src="img/imgBranch.PNG">
 
   * Se necessario retornar para branch `main` pelo terminal do Git, digite `git checkout main`
 
@@ -76,11 +76,16 @@ O sinal verde '+' representa o que foi adicionado/modificado no versionamento, e
 
 ## Clone
 
-* Para fazer o download de um repositório remoto, seu ou de outro usuário, há dua opções:
+* Para fazer o download de um repositório remoto, seu ou de outro usuário, há duas opções:
 * 1ª opção: clicar no botão `code` que se encontra no próprio Github e em seguida no botão `Download ZIP`, conforme imagem abaixo
   
-  <img src="imgClone.PNG">
+  <img src="img/imgClone.PNG">
 
 * 2ª opção: utilizando o mesmo link presente na imagem acima, abra o terminal e digite `git clone <link copiado do repositorio remoto>`
 **Observação**: é importante que ao clonar um repositório de sua propria conta no GitHub, verifique qual branch no GitHub está como `default`, pois o **projeto clonado será aquele que se encontra na branch `default`**
 
+## Pull
+
+* E se por exemplo o desenvolvedor digitar novos códigos em seu computador de casa e subi-los para o repositorio remoto, perceber ao chegar no trabalho que o projeto na máquina do escritório está desatualizado?
+
+* Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositorio local**, digite `git pull`
